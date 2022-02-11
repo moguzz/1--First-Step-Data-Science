@@ -1,2 +1,3 @@
-# fs_ds
-First Step Data Science
+# First Steps for Data Science
+
+**Summary on first things to do when faced with data**
